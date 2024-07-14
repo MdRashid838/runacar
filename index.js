@@ -1,5 +1,5 @@
-var audio = document.createElement('audio');
-audio.getAttribute('src', 'sound.mp3');
+var audioo = document.createElement('audio');
+audioo.setAttribute('src', 'sound.mp3');
 // audio.getAttribute('autoplay', 'sound.mp3');
-audio.loop = true;
-auto.play();
+audioo.loop = true;
+audioo.play();

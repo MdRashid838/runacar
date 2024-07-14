@@ -19,6 +19,7 @@ body{
     width: 100%;
     background-image: url(trees.png);
     position: absolute;
+    background-repeat: no-repeat;
     top: -20vh;
 }
 .track{
@@ -36,7 +37,6 @@ body{
     width: 315px;
     background-image: url(car_body.png);
     position: absolute;
-    background-repeat: no-repeat;
     background-size: cover;
     left: 38vh;
     top: 78vh;
